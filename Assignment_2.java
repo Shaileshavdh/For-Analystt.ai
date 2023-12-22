@@ -16,11 +16,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class Assignment_2 {
 
 	public static void main(String[] args) throws InterruptedException, AWTException {
-//		Module-8
-//		Module 8_Selenium_framWorks,Synchronization
-//		*******************************************
 
-//		Assignment-2
 //
 //		Test Scenario I:  File Upload
 //		Step-1 Launch Chrome Browser
