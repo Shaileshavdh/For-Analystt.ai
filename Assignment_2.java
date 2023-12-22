@@ -1,4 +1,4 @@
-package module_8;
+package Analysttai;
 
 import java.awt.AWTException;
 import java.awt.Robot;
